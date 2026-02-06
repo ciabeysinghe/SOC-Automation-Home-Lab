@@ -4,7 +4,7 @@ SOC Automation Home Lab based on the myDFIR SOC Automation Project.
 
 ## Overview
 This repository includes the logical architecture diagram for a SOC
-Automation home lab, the diagram shows the flow of tge security events, alert
+Automation home lab, the diagram shows the flow of the security events, alert
 generation, enrichment, case management, and response actions.
 
 ## Motivation

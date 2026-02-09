@@ -18,4 +18,14 @@ to better understand how Security Operations Centers (SOC) operate in the real w
 </p>
 
 ## Status
-🚧 Work is in progress. Additional components and documentation will be added later on.
+🚧 This project focuses on **planning and architectural design**.  
+Due to my current hardware constraints, full deployment and virtualization cannot be
+completed in a stable environment.
+
+The repository therefore focuses on:
+- SOC logical architecture and event flow
+- Tool selection rationale
+- Alert handling and automation concepts
+- SOC workflow design and response logic
+
+Future implementation may be completed when adequate resources are available.
